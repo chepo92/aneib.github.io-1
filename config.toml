@@ -1,6 +1,6 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "https://chepo92.github.io/"
+baseURL = "https://chepo92.github.io/aneib.github.io-1/"
 title = "ANEIB"
 theme = "airspace-hugo"
 # Number of posts per page in list view
