@@ -1,0 +1,27 @@
+.feature {
+	background: url("../img/feature-bg.jpg");
+	background-position: 50% 94px;
+	display: block;
+	position: relative;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 100px 0;
+
+	h2 {
+		color: $light;
+		margin-bottom: 30px;
+	}
+
+	p {
+		color: $light;
+		margin-bottom: 20px;
+	}
+
+	.btn-view-works {
+		background: $primary-color;
+		color: #fff;
+		padding: 10px 20px;
+	}
+}
